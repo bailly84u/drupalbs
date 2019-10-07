@@ -1,0 +1,7 @@
+name = wim2a
+description = "TD4 WIM2"
+package = Cours Drupal DF
+core = 7.x
+configure = admin/config/wim2a
+files[] = wim2a.module
+dependencies[] = block
